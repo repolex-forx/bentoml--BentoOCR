@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/bentoml/BentoOCR/commit/20c5da0ae8f56d56d20e961f78390a72cd54c918",
       "git:hexsha": "20c5da0ae8f56d56d20e961f78390a72cd54c918",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
