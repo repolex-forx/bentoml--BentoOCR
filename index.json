@@ -1,0 +1,11 @@
+{
+  "org": "bentoml",
+  "repo": "BentoOCR",
+  "versions": [
+    {
+      "commit": "20c5da0ae8f56d56d20e961f78390a72cd54c918",
+      "tag": "",
+      "parsed_at": "2026-11-08T03:20:51.717941+00:00"
+    }
+  ]
+}
