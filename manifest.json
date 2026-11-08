@@ -1,0 +1,31 @@
+{
+  "manifest_version": "1.0",
+  "org": "bentoml",
+  "repo": "BentoOCR",
+  "versions": [
+    {
+      "commit": "20c5da0ae8f56d56d20e961f78390a72cd54c918",
+      "parsed_at": "2026-11-08T03:18:04.350371+00:00",
+      "filetree": "filetree/20c5da0ae8f56d56d20e961f78390a72cd54c918.nq.gz",
+      "blobs": [
+        "blob/fafc91159db465201357aeeaa575c2882b2785f2.nq.gz",
+        "blob/b3d7a5d982889dacc928d3102a7c037dea76886f.nq.gz",
+        "blob/31003c6d37157e02a4344483b25177f3a63dbeff.nq.gz",
+        "blob/1a51b4a5deb031f525d7e285dc525ba842d5c076.nq.gz",
+        "blob/0d6db98374c0e39ce3b5b525287e430a3bf3f5b3.nq.gz",
+        "blob/1f120c5bedbf8a3531bc75c9575c5dc95eb5e973.nq.gz",
+        "blob/70f71967fab9aa2001d1aad53be21bf0c5eb8d77.nq.gz",
+        "blob/6f94e2bbbcbf74552527598ba0c5cbb3eb469564.nq.gz",
+        "blob/d9cf1150b84cca06b20e7dcae3a5941ad67e1d87.nq.gz",
+        "blob/3cc62bad95c5ccee9f27cee9bc85168285010371.nq.gz",
+        "blob/d8767d9f0b9b710a20cb43c1500e250cec98afba.nq.gz",
+        "blob/ce5c17317d827493d195e6c0262f2089536bd844.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
